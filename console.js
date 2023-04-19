@@ -10,3 +10,8 @@ if (true) {
 if (false) {
   console.log("Yes");
 }
+
+// 4st 
+if (false) {
+  console.log("Yes");
+}
